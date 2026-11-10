@@ -1,0 +1,18 @@
+{
+  "name": "P137 五十音大挑戰 Kana Challenge",
+  "short_name": "五十音挑戰",
+  "description": "日語假名與詞彙聽音辨識遊戲",
+  "start_url": "/P137/",
+  "scope": "/P137/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#173c54",
+  "icons": [
+    {
+      "src": "icons/p137-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
